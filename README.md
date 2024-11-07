@@ -1,7 +1,7 @@
 # portafolio-dno
 Obejtivo General: Exhibir y mostrar los proyectos de distintas áreas del diseño que he realizado a lo largo de mi tiempo como estudiante de diseño y también cmo futuro profesional.
 
-
+USUARIOS
 Usuario extremo 1 (Poco probable - Profesional técnico en diseño industrial)
 Demografía: Persona de 30 años, especializada en diseño industrial, interesada en materiales y procesos de fabricación.
 
