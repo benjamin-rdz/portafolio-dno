@@ -66,4 +66,5 @@ Neil Krug: <https://www.neilkrug.com/>
 -Negativo: Puede tender a ser un tanto tedioso tener que scrollear durante tanto tiempo para indagar en cada uno de los proyectos que se presentan. Si bien tiene un menu desplegable con divisiones de toda la web, este solo se encuentra al inicio de la página, lo que también entorpece un poco la interacción del usuario al querer indagar en otros lados de la web de manera más eficiente. 
 
 REFERENTES
-  ![moodboard referencias](https://github.com/user-attachments/assets/51f0cedf-5bc2-47f3-9a01-f66939055f42)
+![moodboard-diseño web](https://github.com/user-attachments/assets/c5fd0a1e-df23-457e-975b-d590858c059e)
+
