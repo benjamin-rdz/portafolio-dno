@@ -1,0 +1,65 @@
+[
+    {
+        "nombre": "Conoce Tu Credencial",
+        "descripcion": "Proyecto realizado en conjunto con Puentes UC y la Municipalidad de Peñalolén. Este consiste en una campaña para incentivar e informar a las personas en situaciones de discapacidad acerca de la credencial de discapacidad, sus beneficios y el proceso para obtenerla.",
+        "fecha": "2023",
+        "signo": "editorial",
+        "foto": "credencial-0.jpg",
+        "fotos": ["credencial-1.jpg", "credencial-2.jpg", "credencial-3.jpg"],
+        "github": "https://github.com/benjamin-rdz"
+    },
+    {
+        "nombre": "Desvanecidos",
+        "descripcion": "Colección de indumentaria experimental, inspirada en el desgaste que genera el paso del tiempo sobre lo material, de tal manera en que esto adquiere un nuevo aspecto y valor estético. Para esto, se utiliza la gabardina para generar piezas de indumentaria con terminaciones desgastadas, mezclándose con una tela hecha a mano de fieltro de lana.",
+        "fecha": "2023",
+        "signo": "vestuario",
+        "foto": "desvanecidos-0.jpg",
+        "fotos": ["desvanecidos-1.jpg", "desvanecidos-2.jpg", "desvanecidos-3.jpg"],
+        "github": "https://github.com/benjamin-rdz"
+    },
+    {
+        "nombre": "Usar Lo (In)usual",
+        "descripcion": "Revista editorial que mediante el estilismo y fotografías capturadas en las calles de la ciudad de Santiago busca demostrar el uso cotidiano de prendas femeninas en hombres.",
+        "fecha": "2023",
+        "signo": "editorial",
+        "foto": "editorial-t8-0",
+        "fotos": ["editorial-t8-1.jpg", "editorial-t8-2.jpg", "editorial-t8-3.jpg"],
+        "github": "https://github.com/benjamin-rdz"
+    },
+    {
+        "nombre": "5 STAGES OF GRIEF",
+        "descripcion": "Fanzine plegable impreso de ilustraciones digitales hechas con técnica de mano alzada. Este fanzine fue inspirado en las 5 etapas del duelo de un corazón roto, en donde se hace un recorrido por cada etapa mediante canciones que fueron seleccionadas de forma personal para representar el sentir de cada una.",
+        "fecha": "2022",
+        "signo": "gráfico y comunicación",
+        "foto": "fanzine-ilustrado-0.jpg",
+        "fotos": ["fanzine-ilustrado-1.jpg", "fanzine-ilustrado-2.jpg", "fanzine-ilustrado-3.jpg"],
+        "github": "https://github.com/benjamin-rdz"
+    },
+    {
+        "nombre": "Odios Colegiales",
+        "descripcion": "Odios Colegiales consiste en una pieza de indumentaria activista, la cual es confeccionada a partir de los pantalones de uniforme escolar masculino para recrear una nueva prenda que simula y combina las prendas femeninas del jumper y falda tableada escolares.",
+        "fecha": "2023",
+        "signo": "vestuario",
+        "foto": "odios-colegiales-0.jpg",
+        "fotos": ["odios-colegiales-1.jpg", "odios-colegiales-2.jpg", "odios-colegiales-3.jpg"],
+        "github": "https://github.com/benjamin-rdz"
+    },
+    {
+        "nombre": "SANFIC19",
+        "descripcion": "Cartel diseñado para promocionar el evento SANFIC19 realizado anualmente en la ciudad de Santiago de Chile. Su diseño se genera a partir del objetivo principal de este evento de llevar el cine a la ciudad, sugiriendo la propuesta de envolver a la ciudad en esta expresión artística.",
+        "fecha": "2023",
+        "signo": "grafico y comunicacion",
+        "foto": "SANFIC19-0.jpg",
+        "fotos": ["sanfic19-1.jpg", "sanfic19-2.jpg", "sanfic19-3.png"],
+        "github": "https://github.com/benjamin-rdz"
+    },
+    {
+        "nombre": "Colección SYNTH",
+        "descripcion": "Colección de indumentaria confeccionada a partir del reciclaje de prendas como chaquetas y pantalones de telas sintéticas como poliéster y nylon, resultando en nuevas piezas de vanguardia con una construcción basada en la estructura de las prendas originales.",
+        "fecha": "2023",
+        "signo": "vestuario",
+        "foto": "synth-0.jpg",
+        "fotos": ["synth-1.jpg", "synth-2.jpg", "synth-3.jpg"],
+        "github": "https://github.com/benjamin-rdz"
+    }
+]
