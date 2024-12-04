@@ -59,7 +59,7 @@ const projects = {
         title: "Cartel SANFIC19",
         images: [
             "assets/img/sanf19-1.jpg",
-            "assets/img/sanf19-2.jpg"
+            "assets/img/sanf19-2.jpg",
             "assets/img/sanf19-3.png"
         ]
     },
@@ -67,7 +67,7 @@ const projects = {
         title: "Afiche 'Humedales Enmarañados'",
         images: [
             "assets/img/humedales-1.jpg",
-            "assets/img/humedales-2.jpg",
+            "assets/img/humedales-2.jpg"
         ]
     },
     baldosas: {
@@ -83,7 +83,7 @@ const projects = {
             "assets/img/baldosas-8.jpg",
             "assets/img/baldosas-9.jpg",
             "assets/img/baldosas-10.jpg",
-            "assets/img/baldosas-11.jpg",
+            "assets/img/baldosas-11.jpg"
         ]
     },
     inusual: {
@@ -96,7 +96,7 @@ const projects = {
             "assets/img/inusual-5.jpg",
             "assets/img/inusual-6.jpg",
             "assets/img/inusual-7.jpg",
-            "assets/img/inusual-8.jpg",
+            "assets/img/inusual-8.jpg"
         ]
     },
     grief: {
@@ -105,7 +105,7 @@ const projects = {
             "assets/img/grief-1.jpg",
             "assets/img/grief-2.jpg",
             "assets/img/grief-3.jpg",
-            "assets/img/grief-4.jpg",
+            "assets/img/grief-4.jpg"
         ]
     },
     credencial: {
@@ -120,7 +120,7 @@ const projects = {
             "assets/img/credencial-7.jpg",
             "assets/img/credencial-8.jpg",
             "assets/img/credencial-9.jpg",
-            "assets/img/credencial-10.jpg",
+            "assets/img/credencial-10.jpg"
 
         ]
     },
@@ -133,7 +133,7 @@ const projects = {
             "assets/img/synth-4.jpg",
             "assets/img/synth-5.jpg",
             "assets/img/synth-6.jpg",
-            "assets/img/synth-7.jpg",
+            "assets/img/synth-7.jpg"
         ]
     },
     odioscolegiales: {
@@ -142,20 +142,14 @@ const projects = {
             "assets/img/odioscolegiales-4.jpg",
             "assets/img/odioscolegiales-1.jpg",
             "assets/img/odioscolegiales-2.jpg",
-            "assets/img/odioscolegiales-3.jpg",
+            "assets/img/odioscolegiales-3.jpg"
         ]
     },
     desvanecidos: {
         title: "Desvanecidos",
         images: [
             "assets/img/otro_1.jpg",
-            "assets/img/otro_2.jpg",
-            "assets/img/otro_3.jpg",
-            "assets/img/otro_4.jpg",
-            "assets/img/otro_5.jpg",
-            "assets/img/otro_6.jpg",
-            "assets/img/otro_7.jpg",
-            "assets/img/otro_8.jpg",
+            "assets/img/otro_5.jpg"
         ]
     },
 };
