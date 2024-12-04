@@ -60,7 +60,7 @@ const projects = {
         images: [
             "assets/img/sanf19-1.jpg",
             "assets/img/sanf19-2.jpg",
-            "assets/img/sanf19-3.jpg"
+            "assets/img/sanf19-3.png"
         ]
     },
     humedales: {
